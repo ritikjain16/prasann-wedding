@@ -24,3 +24,8 @@ public class PrasannApplication {
 //		spring.datasource.platform=mysql
 //		spring.jpa.hibernate.ddl-auto=update
 //		spring.jpa.show-sql=true
+
+
+//spring.datasource.url=jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12667653
+//		spring.datasource.username=sql12667653
+//		spring.datasource.password=h7iXNnH48N
